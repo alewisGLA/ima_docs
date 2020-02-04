@@ -1,6 +1,6 @@
 # Infrastructure Mapping Application
 
-IMA has been developed by the Greater London Authority to support improved and coordinated planning and d eliveryof infrastructure throughout the Capital. The IMA does this by providing improved visibility of London's future growth and development as well as its planned infrastructure investment. The data within the IMA supports the GLA’s Infrastructure and Development Coordination Team, infrastructure providers and London’s local authorities in planning effectively for growth and delivering coordinated capital works that minimise cost and disruption to Londoners.
+IMA has been developed by the Greater London Authority to support improved and coordinated planning and delivery of infrastructure throughout the Capital. The IMA does this by providing improved visibility of London's future growth and development as well as its planned infrastructure investment. The data within the IMA supports the GLA’s Infrastructure and Development Coordination Team, infrastructure providers and London’s local authorities in planning effectively for growth and delivering coordinated capital works that minimise cost and disruption to Londoners.
 
 
 ## Overview
@@ -22,4 +22,4 @@ A summary of the technical architecture that supports the IMA application.
 
 ### [5 Data Processing](https://github.com/alewisGLA/ima_docs/blob/master/5%20Data%20Processing.md)
 
-## [5.1 Data Processing - Future Investment](https://github.com/alewisGLA/ima_docs/blob/master/5.1%20Data%20Processing%20-%20Future%20Investment.md)
+#### [5.1 Data Processing - Future Investment](https://github.com/alewisGLA/ima_docs/blob/master/5.1%20Data%20Processing%20-%20Future%20Investment.md)
