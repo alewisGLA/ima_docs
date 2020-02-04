@@ -7,7 +7,7 @@ IMA has been developed by the Greater London Authority to support improved and c
 
 These document provides an overview of the application's architecture and how the datasets and codebase are maintained. 
 
-### 1 Architecture Overview [here](../myLib2/README.md)
+### 1 Architecture Overview [here](https://github.com/alewisGLA/ima_docs/blob/master/1%20Architecture%20Overview.md)
 
 A summary of the technical architecture that supports the IMA application.
 
