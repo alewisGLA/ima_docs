@@ -11,11 +11,13 @@ These document provides an overview of the application's architecture and how th
 
 A summary of the technical architecture that supports the IMA application.
 
-### 2.0 ArcGIS Online
+### [2 ArcGIS Online](https://github.com/alewisGLA/ima_docs/blob/master/2%20ArcGIS%20Online.md)
 
 
-### 3.0 ArcGIS Server
+### [3 ArcGIS Server] (https://github.com/alewisGLA/ima_docs/blob/master/3%20ArcGIS%20Server.md)
 
-### 4.0 Database Storage
 
-### 5.0 Data Processing
+### [4 Database Storage] (https://github.com/alewisGLA/ima_docs/blob/master/4%20Database%20Storage.md)
+
+
+### [5 Data Processing] (https://github.com/alewisGLA/ima_docs/blob/master/5%20Data%20Processing.md)

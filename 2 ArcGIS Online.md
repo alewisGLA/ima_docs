@@ -1,2 +1,2 @@
 
-## 2.0 ArcGIS Online
+## 2 ArcGIS Online
