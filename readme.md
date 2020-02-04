@@ -29,6 +29,8 @@ An overview of the tools and technologies used to manage the data creation and u
 
 ### [5.1 Data Processing - Future Investment](https://github.com/alewisGLA/ima_docs/blob/master/5.1%20Data%20Processing%20-%20Future%20Investment.md)
 
+This section details the workflows and scripts used to update the Future Investment datasets - these represent the core data in the applicaton and indicate future development activity.
+
 ### [5.2 Data Processing - Context](https://github.com/alewisGLA/ima_docs/blob/master/5.2%20Data%20Processing%20-%20Context.md)
 
 ### [6.0 Editing Source Code](https://github.com/alewisGLA/ima_docs/blob/master/6.0%20Editing%20Source%20Code.md)
@@ -36,3 +38,7 @@ An overview of the tools and technologies used to manage the data creation and u
 ### [7.0 Third party data services](https://github.com/alewisGLA/ima_docs/blob/master/7.0%20Third%20Party%20Services.md)
 
 ### [7.1 Third party data services - TfL Playbook](https://github.com/alewisGLA/ima_docs/blob/master/7.1%20Third%20Party%20Services%20-%20TfL%20Playbook.md)
+
+### [8.0 Data Access](https://github.com/alewisGLA/ima_docs/blob/master/8.0%20Date%20Access.md)
+
+### [8.1 Data Access - Datastore](https://github.com/alewisGLA/ima_docs/blob/master/8.1%20DateStore.md)
