@@ -1,42 +1,27 @@
-# Project Title
+# Infrastructure Mapping Application
 
-One Paragraph of project description goes here
+IMA has been developed by the Greater London Authority to support improved and coordinated planning and d eliveryof infrastructure throughout the Capital. The IMA does this by providing improved visibility of London's future growth and development as well as its planned infrastructure investment. The data within the IMA supports the GLA’s Infrastructure and Development Coordination Team, infrastructure providers and London’s local authorities in planning effectively for growth and delivering coordinated capital works that minimise cost and disruption to Londoners.
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Overview
 
-### Prerequisites
+These document provides an overview of the application's architecture and how the datasets and codebase are maintained. 
 
-What things you need to install the software and how to install them
+### 1.0 Architecture Overview
 
-```
-Give examples
-```
+[c+p from procurement docs]
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+### 2.0 ArcGIS Online
 
-```
-Give the example
-```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+## Break down into end to end tests
 
 Explain what these tests test and why
 
