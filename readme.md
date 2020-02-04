@@ -21,3 +21,5 @@ A summary of the technical architecture that supports the IMA application.
 
 
 ### [5 Data Processing](https://github.com/alewisGLA/ima_docs/blob/master/5%20Data%20Processing.md)
+
+## [5.1 Data Processing - Future Investment](https://github.com/alewisGLA/ima_docs/blob/master/5.1%20Data%20Processing%20-%20Future%20Investment.md)
