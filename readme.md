@@ -33,6 +33,6 @@ An overview of the tools and technologies used to manage the data creation and u
 
 ### [6.0 Editing Source Code](https://github.com/alewisGLA/ima_docs/blob/master/6.0%20Editing%20Source%20Code.md)
 
-### [7.0 Third party data services](https://github.com/alewisGLA/ima_docs/blob/master/7.0%20Third%20Party%20Data%20Services.md)
+### [7.0 Third party data services](https://github.com/alewisGLA/ima_docs/blob/master/7.0%20Third%20Party%20Services.md)
 
-### [7.1 Third party data services - TfL Playbook](https://github.com/alewisGLA/ima_docs/blob/master/7.0%20Third%20Party%20Data%20Services%20-%20TfL%20Playbook.md)
+### [7.1 Third party data services - TfL Playbook (https://github.com/alewisGLA/ima_docs/blob/master/7.0%20Third%20Party%20Services%20TfL%20-%20Playbook.md)
