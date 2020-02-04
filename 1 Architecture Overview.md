@@ -1,5 +1,5 @@
 
-## 1.0 Architecture Overview
+## 1 Architecture Overview
 
 [c+p from procurement docs]
 
