@@ -39,6 +39,6 @@ This section details the workflows and scripts used to update the Future Investm
 
 ### [7.1 Third party data services - TfL Playbook](https://github.com/alewisGLA/ima_docs/blob/master/7.1%20Third%20Party%20Services%20-%20TfL%20Playbook.md)
 
-### [8.0 Data Access](https://github.com/alewisGLA/ima_docs/blob/master/8.0%20Date%20Access.md)
+### [8.0 Data Access](https://github.com/alewisGLA/ima_docs/blob/master/8.0%20Data%20Access.md)
 
-### [8.1 Data Access - Datastore](https://github.com/alewisGLA/ima_docs/blob/master/8.1%20DateStore.md)
+### [8.1 Data Access - Datastore](https://github.com/alewisGLA/ima_docs/blob/master/8.1%20DataStore.md)
